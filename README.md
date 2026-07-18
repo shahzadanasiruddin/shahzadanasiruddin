@@ -233,11 +233,27 @@ Built and customized WordPress sites for clients on a freelance basis.
 
 </div>
 
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&weight=600&pause=1200&center=true&vCenter=true&width=650&color=58A6FF&lines=Shahzada+Nasir+Uddin;Full+Stack+Developer">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&weight=600&pause=1200&center=true&vCenter=true&width=650&color=0969DA&lines=Shahzada+Nasir+Uddin;Full+Stack+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&weight=600&pause=1200&center=true&vCenter=true&width=650&color=0969DA&lines=Shahzada+Nasir+Uddin;Full+Stack+Developer">
+  </picture>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-0969DA?style=flat-square&labelColor=24292F" />
+  <img src="https://img.shields.io/badge/BS%20Software%20Engineering-SZABIST-0969DA?style=flat-square&labelColor=24292F" />
+  <img src="https://img.shields.io/badge/Based%20in-Chitral%2C%20Pakistan-0969DA?style=flat-square&labelColor=24292F" />
+</p>
 
-
-
-
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=React.js+%7C+Next.js+%7C+Node.js+%7C+Django+%7C+Laravel;Turning+ideas+into+scalable+web+applications;Open+to+full-stack+%26+freelance+opportunities">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=57606A&center=true&vCenter=true&width=550&lines=React.js+%7C+Next.js+%7C+Node.js+%7C+Django+%7C+Laravel;Turning+ideas+into+scalable+web+applications;Open+to+full-stack+%26+freelance+opportunities">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=57606A&center=true&vCenter=true&width=550&lines=React.js+%7C+Next.js+%7C+Node.js+%7C+Django+%7C+Laravel;Turning+ideas+into+scalable+web+applications;Open+to+full-stack+%26+freelance+opportunities">
+  </picture>
+</p>
