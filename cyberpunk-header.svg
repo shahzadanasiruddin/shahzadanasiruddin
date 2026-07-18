@@ -1,0 +1,108 @@
+<svg width="800" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;family=Share+Tech+Mono&amp;display=swap');
+      
+      .bg { fill: #0d1117; }
+      
+      .glitch {
+        font-family: 'Orbitron', sans-serif;
+        font-size: 52px;
+        font-weight: 700;
+      }
+      
+      .glitch-1 { fill: #b882fc; animation: glitch-anim-1 2s infinite linear alternate-reverse; }
+      .glitch-2 { fill: #6634f1; animation: glitch-anim-2 2.5s infinite linear alternate-reverse; }
+      .glitch-text { fill: #ffffff; animation: glitch-skew 4s infinite linear alternate-reverse; }
+      
+      .sub {
+        font-family: 'Share Tech Mono', monospace;
+        font-size: 22px;
+        fill: #b882fc;
+        letter-spacing: 4px;
+        animation: pulse 2s infinite alternate;
+      }
+
+      .sub-2 {
+        font-family: 'Share Tech Mono', monospace;
+        font-size: 14px;
+        fill: #c9d1d9;
+        letter-spacing: 2px;
+        opacity: 0.7;
+      }
+
+      .grid {
+        stroke: #6634f1;
+        stroke-width: 1;
+        opacity: 0.15;
+      }
+      
+      @keyframes glitch-anim-1 {
+        0% { clip-path: inset(20% 0 80% 0); transform: translate(-3px, 1px); }
+        20% { clip-path: inset(60% 0 10% 0); transform: translate(3px, -1px); }
+        40% { clip-path: inset(40% 0 50% 0); transform: translate(-3px, 2px); }
+        60% { clip-path: inset(80% 0 5% 0); transform: translate(3px, -2px); }
+        80% { clip-path: inset(10% 0 70% 0); transform: translate(-1px, 1px); }
+        100% { clip-path: inset(30% 0 50% 0); transform: translate(1px, -1px); }
+      }
+      
+      @keyframes glitch-anim-2 {
+        0% { clip-path: inset(10% 0 60% 0); transform: translate(3px, -1px); }
+        20% { clip-path: inset(30% 0 20% 0); transform: translate(-3px, 1px); }
+        40% { clip-path: inset(70% 0 10% 0); transform: translate(3px, -2px); }
+        60% { clip-path: inset(20% 0 50% 0); transform: translate(-3px, 2px); }
+        80% { clip-path: inset(50% 0 30% 0); transform: translate(1px, -1px); }
+        100% { clip-path: inset(5% 0 80% 0); transform: translate(-1px, 1px); }
+      }
+      
+      @keyframes glitch-skew {
+        0% { transform: skew(0deg); }
+        10% { transform: skew(-3deg); }
+        20% { transform: skew(3deg); }
+        30% { transform: skew(0deg); }
+        100% { transform: skew(0deg); }
+      }
+      
+      @keyframes pulse {
+        0% { opacity: 0.8; text-shadow: 0 0 5px #b882fc; }
+        100% { opacity: 1; text-shadow: 0 0 15px #b882fc, 0 0 30px #6634f1; }
+      }
+
+      .line {
+        stroke: #b882fc;
+        stroke-width: 2;
+        stroke-dasharray: 800;
+        stroke-dashoffset: 800;
+        animation: drawLine 3s forwards infinite;
+      }
+      
+      @keyframes drawLine {
+        0% { stroke-dashoffset: 800; }
+        50% { stroke-dashoffset: 0; }
+        100% { stroke-dashoffset: -800; }
+      }
+    </style>
+  </defs>
+  
+  <rect class="bg" width="800" height="250" />
+  
+  <!-- Cyberpunk Grid -->
+  <g class="grid">
+    <path d="M 0 50 L 800 50 M 0 100 L 800 100 M 0 150 L 800 150 M 0 200 L 800 200" />
+    <path d="M 100 0 L 100 250 M 200 0 L 200 250 M 300 0 L 300 250 M 400 0 L 400 250 M 500 0 L 500 250 M 600 0 L 600 250 M 700 0 L 700 250" />
+  </g>
+  
+  <!-- Glowing Animated Laser Lines -->
+  <line x1="0" y1="240" x2="800" y2="240" class="line" />
+  <line x1="0" y1="10" x2="800" y2="10" class="line" style="animation-delay: 1.5s; stroke: #6634f1;" />
+
+  <!-- Glitch Text Group -->
+  <g text-anchor="middle" transform="translate(400, 115)">
+    <text class="glitch glitch-1" x="0" y="0">ABU ZAR MISHWANI</text>
+    <text class="glitch glitch-2" x="0" y="0">ABU ZAR MISHWANI</text>
+    <text class="glitch glitch-text" x="0" y="0">ABU ZAR MISHWANI</text>
+  </g>
+  
+  <text class="sub" x="400" y="165" text-anchor="middle">> TECH ENTREPRENEUR &lt;</text>
+  <text class="sub-2" x="400" y="200" text-anchor="middle">HINDUKUSHSOFT TECHNOLOGIES</text>
+</svg>
