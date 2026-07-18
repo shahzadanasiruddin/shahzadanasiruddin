@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cyberpunk-header.svg" alt="Shahzada Nasir Uddin" width="60%" />
+  <img src="./assets/terminal-header.svg" alt="Shahzada Nasir Uddin" width="70%" />
 </div>
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                 SHAHZADA NASIR UDDIN — GITHUB PROFILE              -->
