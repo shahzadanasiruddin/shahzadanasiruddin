@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./assets/cyberpunk-header.svg" alt="Shahzada Nasir Uddin" width="60%" />
+</div>
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                 SHAHZADA NASIR UDDIN — GITHUB PROFILE              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -228,3 +231,12 @@ Built and customized WordPress sites for clients on a freelance basis.
 <div align="center">
 
 </div>
+
+
+
+
+
+
+
+
+
