@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="./assets/terminal-header.svg" alt="Shahzada Nasir Uddin" width="70%" />
-</div>
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                 SHAHZADA NASIR UDDIN — GITHUB PROFILE              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -8,6 +5,10 @@
 <div align="center">
 
 # ⚡ `<ShahzadaNasirUddin />`
+<div align="center">
+  <img src="./assets/terminal-header.svg" alt="Shahzada Nasir Uddin" width="70%" />
+</div>
+
 
 ### Full Stack Developer | BS Software Engineering Student @ SZABIST Islamabad
 <a href="https://git.io/typing-svg">
