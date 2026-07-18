@@ -55,7 +55,15 @@ const shahzada = {
 <div align="center">
 
 ### `⟨/⟩` Tech Stack
-
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="28" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="28" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="28" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="28" height="28" />
+</div>
 <br />
 
 <!-- Languages -->
