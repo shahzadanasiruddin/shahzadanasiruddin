@@ -257,3 +257,15 @@ Built and customized WordPress sites for clients on a freelance basis.
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=57606A&center=true&vCenter=true&width=550&lines=React.js+%7C+Next.js+%7C+Node.js+%7C+Django+%7C+Laravel;Turning+ideas+into+scalable+web+applications;Open+to+full-stack+%26+freelance+opportunities">
   </picture>
 </p>
+
+
+
+<p align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1200&color=00C4FF&center=true&vCenter=true&width=620&lines=Thanks+for+visiting!+Let's+build+something+great+%F0%9F%9A%80;Open+to+freelance+%26+remote+opportunities+worldwide" alt="Typing SVG" />
+</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7B2FF7,50:00C4FF,100:0D1117&section=footer" />
+
+</div>
+
