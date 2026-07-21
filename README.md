@@ -187,18 +187,16 @@ Built and customized WordPress sites for clients on a freelance basis.
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=shahzadanasiruddin&show_icons=true&hide_border=true&bg_color=00000000&title_color=b882fc&icon_color=6634f1&text_color=c9d1d9&ring_color=6634f1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=shahzadanasiruddin&show_icons=true&hide_border=true&bg_color=00000000&title_color=6634f1&icon_color=b882fc&text_color=333333" />
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahzadanasiruddin&show_icons=true&hide_border=true&bg_color=00000000&title_color=6634f1&icon_color=b882fc&text_color=333333" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=shahzadanasiruddin&show_icons=true&hide_border=true&bg_color=00000000&title_color=B781FB&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=shahzadanasiruddin&show_icons=true&hide_border=true&bg_color=00000000&title_color=B781FB&icon_color=8B5CF6&text_color=333333&ring_color=8B5CF6" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahzadanasiruddin&show_icons=true&hide_border=true&bg_color=00000000&title_color=B781FB&icon_color=8B5CF6&text_color=333333&ring_color=8B5CF6" alt="GitHub Stats" />
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=shahzadanasiruddin&hide_border=true&background=00000000&ring=6634f1&fire=b882fc&currStreakLabel=b882fc&sideLabels=c9d1d9&dates=555555" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=shahzadanasiruddin&hide_border=true&background=00000000&ring=6634f1&fire=b882fc&currStreakLabel=6634f1&sideLabels=333333&dates=888888" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=shahzadanasiruddin&hide_border=true&background=00000000&ring=6634f1&fire=b882fc&currStreakLabel=6634f1&sideLabels=333333&dates=888888" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=shahzadanasiruddin&hide_border=true&background=00000000&ring=8B5CF6&fire=B781FB&currStreakLabel=B781FB&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=777777" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=shahzadanasiruddin&hide_border=true&background=00000000&ring=8B5CF6&fire=B781FB&currStreakLabel=B781FB&currStreakNum=333333&sideNums=333333&sideLabels=333333&dates=888888" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=shahzadanasiruddin&hide_border=true&background=00000000&ring=8B5CF6&fire=B781FB&currStreakLabel=B781FB&currStreakNum=333333&sideNums=333333&sideLabels=333333&dates=888888" alt="GitHub Streak" />
 </picture>
-
-</div>
 
 <br />
 
